@@ -1,0 +1,9 @@
+header {
+  display: flex;
+  padding: 20px;
+  align-items: center;
+  background-color: rgb(13, 125, 190);
+  color: white;
+  height: 100px;
+  width: 100%;
+}
